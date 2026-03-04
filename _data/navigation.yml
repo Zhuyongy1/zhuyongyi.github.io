@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "主页"
+  - title: "简介"
     url: "/#about-me"
 
   - title: "教育背景"
@@ -13,4 +13,4 @@ main:
     url: "/#books"
 
   - title: "科研项目"
-    url: "/#projects
+    url: "/#projects"
