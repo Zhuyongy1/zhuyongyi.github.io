@@ -152,5 +152,7 @@ body {
   text-decoration: underline;
 }
 
-
+.masthead__menu-item:first-child {
+    display: none;
+}
 
