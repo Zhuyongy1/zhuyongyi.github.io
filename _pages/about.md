@@ -89,6 +89,9 @@ redirect_from:
 - 姚东旻, **朱泳奕**, 庄颖. **[PPP是否推高了地方政府债务——基于微观计量方法的系统评价](https://kns.cnki.net/kcms2/article/abstract?v=iwDheDcO5w59KCCwvuwN3zDgfjuJqR2zDAVLnH8vLP5KeFTWI3NzJ9H-Mm6D-Xmibmgt4HMp1cXu7vPXY7sD-eZlLy6qty3s42mGiU_3xGzwG6vPKz3MmgDV51HYmxzsAvJM7oSlRKwa38mimZy_Ij2K9al5thrU-erOcXw-fGbU76B8yFQcpw)**.  
   *国际金融研究*, 2019(06):26–36.
 
+- 姚东旻, ,庄颖，**朱泳奕**. **[雨果·索南夏因对微观经济理论的贡献](https://kns.cnki.net/kcms2/article/abstract?v=iwDheDcO5w4wk-8mxjp-8YAdqe4-7F0pqJr3KBHW6ZUcITLhb6a73KAMZTRKYWJ83cyt_lgpy4ua4fDaK094T23mTCt9NnJTfD8jT2cNz-rN1PiGv5PXnrwPv5dTbsb7dbUosJ4f07U4h8N32ToJdGmS7V9SZuz3vSg2386_JVj8665y1__sMQ==&uniplatform=NZKPT&language=CHS)**.  
+  *经济学动态*, 2019(02):149-160.
+
 ---
 
 <span class='anchor' id='books'></span>
