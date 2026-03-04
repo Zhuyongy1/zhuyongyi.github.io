@@ -23,7 +23,7 @@ redirect_from:
 
 2021年获中央财经大学经济学博士学位，研究方向为财政基础理论与财税政策。  
 
-在《社会学研究》、《世界经济》、 *Journal of Chinese Political Science*、*Journal of Business Research* 等国内外期刊发表论文10余篇。
+在《社会学研究》、《世界经济》、 *Journal of Chinese Political Science*、*Journal of Business Research* 等期刊发表论文10余篇。
 
 出版学术专著1部。相关研究报告获省部级副职领导批示，主持国家自然科学基金项目1项。
 
